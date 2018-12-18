@@ -1,0 +1,4 @@
+Compare to the performance of the CPU implementation. You can compute a speedup table with make table. Which is faster in which configuration? Why do you think that is?
+
+ANS: As it is observed from the table, in the first two cases CPU is better but in the next two cases GPU is giving a better speedup because there are more number of computations. 
+
